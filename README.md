@@ -23,6 +23,4 @@ XXX/RTB$:ln -sfn XXX/make-ipinyou-data/1458 data
 run a demo:               
 cd src                          
 python3 demo.py            
-# rtb
-# rtb-ipinyou
-# rtb-ipinyou
+
