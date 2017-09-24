@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CTRipinyou/.idea/CTRipinyou.iml" filepath="$PROJECT_DIR$/../CTRipinyou/.idea/CTRipinyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RTB-ipinyou.iml" filepath="$PROJECT_DIR$/.idea/RTB-ipinyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../make-ipinyou-data-master/.idea/make-ipinyou-data-master.iml" filepath="$PROJECT_DIR$/../make-ipinyou-data-master/.idea/make-ipinyou-data-master.iml" />
+    </modules>
+  </component>
+</project>

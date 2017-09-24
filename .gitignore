@@ -1,0 +1,14 @@
+*.o
+build
+*~
+
+
+*.csv
+*.out
+*.ffm
+*.fm
+*.vw
+*.txt
+model
+*.cache
+*.xls
