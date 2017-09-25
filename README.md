@@ -18,7 +18,8 @@ How to Use
 ====================                
 For simplicity, we use iPinYou dataset at make-ipinyou-data https://github.com/wnzhang/make-ipinyou-data.                  
 Follow the instructions and update the soft link data:         
-XXX/RTB$:ln -sfn XXX/make-ipinyou-data/1458 data
+XXX/RTB$:ln -sfn XXX/make-ipinyou-data/1458 data                                                    
+or just copy the train.log.txt of an advertiser here
 
 run a demo:               
 cd src                          
